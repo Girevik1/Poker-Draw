@@ -1,0 +1,19 @@
+{
+    "name": "user/pokerhand2",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "GIREVIK1",
+            "email": "GIREVIK1988@GMAIL.COM"
+        }
+    ],
+    "require": {
+        "mradcliffe/pokerhand": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mradcliffe/pokerhand"
+        }
+    ]
+}
